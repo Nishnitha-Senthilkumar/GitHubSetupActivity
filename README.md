@@ -1,2 +1,2 @@
 # GitHubSetup
-My first GitHub repository for activity
+This repository is created as part of GitHub setup.
